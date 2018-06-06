@@ -1,0 +1,23 @@
+/*result of KNN performed over iris data set
+with 120 training set and 30 test set accuracy max
+gained is 96.6
+
+
+
+K_value__________Accuracy
+7		 96.6667	
+8		 96.6667
+10		 96.6667
+30		 90
+40		 90
+50		 90
+100		 63.3333
+After changing the test set
+K_value__________Accuracy
+7		 93.3333 
+8		 96.6667
+10		 96.6667
+30		 96.6667
+40		 93.3333
+50		 96.6667
+100		 66.6667
